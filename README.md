@@ -1,5 +1,5 @@
 # finagle-example
-Finagle Java Example
+Finagle Java Example using Finagle 6.4.0
 
 Implements a simple Echo Client & Server and HTTP Client & Server.
 
